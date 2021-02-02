@@ -1,0 +1,4 @@
+eureka:
+  instance:
+    metadata-map:
+      gray-group: gray1
