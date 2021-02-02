@@ -1,4 +1,4 @@
 eureka:
   instance:
     metadata-map:
-      gray-group: gray1234567
+      gray-group: gray
